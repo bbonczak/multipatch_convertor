@@ -1,6 +1,6 @@
 # multipatch_convertor
 
-![conversion workflow](workflow.jpg)
+![conversion workflow](workflow.jpg | width=80)
 
 Function converting ESRI Multipatch file to simple Polygon-based file with height attributes using [GeoPandas](http://geopandas.org/) library. It could be used to display 3D Multipatch objects, such as buildings in visualization platforms such as MapBox.
 
